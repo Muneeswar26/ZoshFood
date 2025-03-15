@@ -1,0 +1,2 @@
+# ZoshFood
+about swiggy platform
